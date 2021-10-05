@@ -1,3 +1,5 @@
+// Test on board 2021-10-04 is OK.
+// Publicated on github.
 /*
   ESP32CAM Robot Car
   esp32cam-robot.ino (requires app_httpd.cpp)
